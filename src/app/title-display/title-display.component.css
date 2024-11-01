@@ -1,0 +1,12 @@
+.card {
+    transition: transform 0.2s; /* Animation effect */
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Slightly enlarge card on hover */
+  }
+  
+  .card-title {
+    font-size: 1.2rem; /* Adjust font size for titles */
+  }
+  
